@@ -1,2 +1,6 @@
 tokyo
 osaka
+kyoto
+hakata
+sendai
+fukusima
